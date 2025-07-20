@@ -1,0 +1,52 @@
+# Unity Generated Folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Unity Cache & Auto-generated
+sysinfo.txt
+*.pidb
+*.booproj
+*.svd
+
+# IDE / Editor Specific
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Crash & Reports
+*.stacktrace
+*.crash
+*.error
+
+# Ignore for specific projects
+2DProct/[Ll]ibrary/
+2DProct/[Tt]emp/
+2DProct/[Oo]bj/
+2DProct/[Bb]uild*/
+2DProct/[Ll]ogs/
+
+3dProject/[Ll]ibrary/
+3dProject/[Tt]emp/
+3dProject/[Oo]bj/
+3dProject/[Bb]uild*/
+3dProject/[Ll]ogs/
+
+CharecterController/[Ll]ibrary/
+CharecterController/[Tt]emp/
+CharecterController/[Oo]bj/
+CharecterController/[Bb]uild*/
+CharecterController/[Ll]ogs/
