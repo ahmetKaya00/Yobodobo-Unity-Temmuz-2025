@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\3dProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1FCF455A-71F5-DD1F-F722-F582608C3865}|Assembly-CSharp.csproj|c:\\users\\kaya3\\documents\\github\\yobodobo-unity-temmuz-2025\\3dproject\\assets\\scripts\\soundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCF455A-71F5-DD1F-F722-F582608C3865}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1FCF455A-71F5-DD1F-F722-F582608C3865}|Assembly-CSharp.csproj|c:\\users\\kaya3\\documents\\github\\yobodobo-unity-temmuz-2025\\3dproject\\assets\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCF455A-71F5-DD1F-F722-F582608C3865}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCF455A-71F5-DD1F-F722-F582608C3865}|Assembly-CSharp.csproj|c:\\users\\kaya3\\documents\\github\\yobodobo-unity-temmuz-2025\\3dproject\\assets\\scripts\\cameraswitchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FCF455A-71F5-DD1F-F722-F582608C3865}|Assembly-CSharp.csproj|C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\3dProject\\assets\\scripts\\cameraswitchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCF455A-71F5-DD1F-F722-F582608C3865}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraswitchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SoundController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\3dProject\\Assets\\Scripts\\SoundController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundController.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\3dProject\\Assets\\Scripts\\SoundController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:21:43.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AnimationController.cs",
               "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\3dProject\\Assets\\Scripts\\AnimationController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationController.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CameraSwitcherController.cs",
               "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\3dProject\\Assets\\Scripts\\CameraSwitcherController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraSwitcherController.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Assets\\Scripts\\CameraSwitcherController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T11:20:40.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T11:20:40.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CameraSwitcher.cs",
               "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\3dProject\\Assets\\Scripts\\CameraSwitcher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraSwitcher.cs",
