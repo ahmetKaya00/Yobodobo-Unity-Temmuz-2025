@@ -11,6 +11,15 @@ public class MovingCube : MonoBehaviour
     public static MovingCube LastCube { get; private set; }
     public MoveDirection MoveDirection { get; set; }
     [SerializeField] float moveSpeed = 1f;
+    private ADS _ads;
+    public GameObject panel;
+
+
+    private void Start()
+    {
+        _ads = FindObjectOfType<ADS>();
+    }
+
 
     private void OnEnable()
     {
@@ -26,8 +35,13 @@ public class MovingCube : MonoBehaviour
         return new Color(UnityEngine.Random.Range(0.1f, 1f), UnityEngine.Random.Range(0.1f, 1f), UnityEngine.Random.Range(0.1f, 1f));
     }
 
+    public void devam()
+    {
+        SceneManager.LoadScene(0);
+    }
     public void Stop()
     {
+        
         moveSpeed = 0f;
         float breakZ = GetBreak();
 
@@ -37,7 +51,9 @@ public class MovingCube : MonoBehaviour
         {
             LastCube = null;
             CurrentCube = null;
+            _ads.ShowRewardedAd();
             SceneManager.LoadScene(0);
+            
         }
 
         float direction = breakZ > 0 ? 1f : -1f;
@@ -46,6 +62,7 @@ public class MovingCube : MonoBehaviour
         else
             SplitCubeX(breakZ, direction);
         LastCube = this;
+        
     }
 
     private float GetBreak()

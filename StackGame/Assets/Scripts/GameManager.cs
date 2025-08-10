@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     private int spawnIndex;
     private CubeRespawn currentSpawn;
 
+
     private void Awake()
     {
         spawners = FindObjectsOfType<CubeRespawn>();
@@ -24,7 +25,9 @@ public class GameManager : MonoBehaviour
             if(touch.phase == TouchPhase.Began)
             {
                 if(MovingCube.CurrentCube != null)
-                    MovingCube.CurrentCube.Stop();
+                     MovingCube.CurrentCube.Stop();
+
+              
                 spawnIndex = spawnIndex == 0 ? 1 : 0;
                 currentSpawn = spawners[spawnIndex];
                 currentSpawn.SpawnCube();

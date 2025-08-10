@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|c:\\users\\kaya3\\documents\\github\\yobodobo-unity-temmuz-2025\\stackgame\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\assets\\scripts\\movingcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|c:\\users\\kaya3\\documents\\github\\yobodobo-unity-temmuz-2025\\stackgame\\assets\\scripts\\ads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\assets\\scripts\\camerasetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerasetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\assets\\scripts\\scoregame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoregame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3868D236-5C1F-0F5D-94EA-E75462390686}|Assembly-CSharp.csproj|C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\assets\\scripts\\cuberespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +34,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADS.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\ADS.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ADS.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\ADS.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ADS.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:47:39.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CameraSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\CameraSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraSetup.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\CameraSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraSetup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:06:21.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreGame.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\ScoreGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreGame.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\ScoreGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:45:10.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CubeRespawn.cs",
               "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\CubeRespawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CubeRespawn.cs",
@@ -38,28 +87,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T11:13:15.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T11:13:15.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MovingCube.cs",
               "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\MovingCube.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovingCube.cs",
               "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Yobodobo-Unity-Temmuz-2025\\StackGame\\Assets\\Scripts\\MovingCube.cs",
               "RelativeToolTip": "Assets\\Scripts\\MovingCube.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAYwHIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T11:10:07.057Z"
+              "WhenOpened": "2025-08-03T11:10:07.057Z",
+              "EditorCaption": ""
             }
           ]
         }
